@@ -193,6 +193,10 @@ GET http://localhost:8080/myapp/api/hello/1
 
 ---
 
+## WildFly
+Connection URL
+jdbc:sqlserver://localhost:1433;databaseName=hello_db;encrypt=true;trustServerCertificate=true
+
 ## 📫 問い合わせ
 
 改善や質問などありましたら Issue または PR でどうぞ！
